@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖥️ Just starting out in code but always learning & building<br>🧑🏻‍🎓 Studies Information Technology at the Our Lady of Fatima University, Philippines<br>💭 Just started learning to code, my journey begins in C & Python!</p>
+<p align="left">🖥️ Just starting out in code but always learning & building<br>🧑🏻‍🎓 Studies Information Technology at the Our Lady of Fatima University, Philippines<br>💭 My journey begins in C & Python!</p>
 
 ###
 
